@@ -77,21 +77,22 @@
 	<section class="iu-section" id="iu-conocenos">
 		<div class="container-fluid">
 			<div class="row pos-rel">
-				<div class="col-xs-12 col-sm-6 h-400 padding-small">
+				<div class="col-xs-12 col-sm-6 h-400 padding-small z-3">
 					<div class="vertical-align-no-small">
 						<p class="main-text">
 							Somos un <b>PROGRAMA</b> de Servicio Social e investigación que explora <b>OPORTUNIDADES</b> de <b>MEJORAMIENTO DE VIVIENDA</b> y <b>ESPACIOS PÚBLICOS</b> en zonas de alta marginación y riesgo para la salud con una <b>VISIÓN INTEGRAL</b>
 						</p>
 					</div>
 				</div>
-				<div class="col-xs-12 col-sm-6 bg-red h-400 padding-small">
-					<div class="vertical-align-no-small" align="center">
+				<div class="col-xs-12 col-sm-6 bg-red h-400 padding-small pos-stat z-1">
+					<div class="vertical-align-no-small z-3" align="center">
 						<button class="button button--inverted button--wayra button--border-thick button--text-upper button--size-s uppercase">Conoce más</button>
 					</div>
+					<div class="conocenos-bg hidden-xs">
+						<img src="images/iu-gray.png" alt="">
+					</div>
 				</div>
-				<div class="conocenos-bg hidden-xs">
-					<img src="images/iu-gray.png" alt="">
-				</div>
+				
 			</div>
 		</div>
 		<div class="container-parallax" data-parallax="scroll" data-image-src="images/bg-4.jpg">
