@@ -18,13 +18,13 @@
 </head>
 <body>
 	<section class="iu-intro">
-		<!-- <div class="intro parallax-window" data-parallax="scroll" data-image-src="images/bg-1.jpg"></div> -->
-		<video autoplay loop poster="images/bg-1.jpg" class="bg-video">
+		<div class="intro parallax-window visible-xs-block" data-parallax="scroll" data-image-src="images/bg-1.jpg"></div>
+		<video autoplay loop poster="images/bg-1.jpg" class="bg-video hidden-xs">
 			<source src="images/videos/timelapse.webm" type="video/webm">
 			<source src="images/videos/timelapse.mp4" type="video/mp4">
 		</video>
 		<div class="overlay">
-			<nav class="navbar">
+			<nav class="navbar navbar-fixed-top">
 			  <div class="container-fluid">
 			    <div class="border-b-white">
 			    	<!-- Brand and toggle get grouped for better mobile display -->

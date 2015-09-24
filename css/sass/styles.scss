@@ -1,68 +1,105 @@
 // C O L O R S 
 
 $main-color: #fff;
-$accent-color: #FF0000;
-$safe-color: #9F9F9F;
+$accent-color: #f00;
+$safe-color: #9f9f9f;
+$transparent: rgba(0, 0, 0, .75);
 
 //////////////
 
 
 
-body {
-	// font-family: 'Roboto', sans-serif;
-	font-family: 'Lato', sans-serif;
+body
+{
+    // font-family: 'Roboto', sans-serif;
+    font-family: 'Lato', sans-serif;
+
+    position: relative;
 }
 
-.second-font {
-	font-family: 'Josefin Slab', serif;
+.second-font
+{
+    font-family: 'Josefin Slab', serif;
 }
 
-a {
-	outline: 0 !important;
+a
+{
+    outline: 0 !important;
 }
 
 // N A V B A R
-.navbar {
-	margin-top: 15px;
+.navbar
+{
+    margin-top: 15px;
 }
 
-.logo-nav {
-	height: 100%; 
-	width: auto;
+.logo-nav
+{
+    width: auto;
+    height: 100%;
 }
 
-.navbar-brand {
-	padding: 5px 15px;
+.navbar-brand
+{
+    padding: 5px 15px;
 }
 
-.border-b-white {
-	border-bottom: 2px solid white;
-	padding-bottom: 15px;
+.border-b-white
+{
+    padding-bottom: 15px;
+
+    border-bottom: 2px solid white;
 }
 
-.navbar-nav li a {
-	color: $main-color;
-	text-transform: uppercase;
-	@extend .second-font;
-	border-radius: 10px;
-	&:hover, &:focus, &:active {
-		color: $accent-color;
-		background-color: transparent;
-	}
+.navbar-nav li a
+{
+    text-transform: uppercase;
+
+    color: $main-color;
+    border-radius: 10px;
+
+    @extend .second-font;
+    &:hover,
+    &:focus,
+    &:active
+    {
+        color: $accent-color;
+        background-color: transparent;
+    }
 }
 
-.nav .open > a, .nav .open > a:hover, .nav .open > a:focus, .nav .open > a:active {
-	background-color: transparent;
-	color: $accent-color;
+.icon-bar
+{
+    background-color: $main-color;
 }
 
-.dropdown-menu {
-	li a {
-		color: $safe-color;
-		&:hover {
-			color: $main-color;
-		}
-	}
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus,
+.nav .open > a:active
+{
+    color: $accent-color;
+    background-color: transparent;
+}
+
+.dropdown-menu
+{
+    li a
+    {
+        color: $main-color;
+        &:hover
+        {
+            color: $main-color;
+        }
+    }
+}
+
+@media (max-width: 767px)
+{
+    .navbar-collapse
+    {
+        background-color: $transparent;
+    }
 }
 
 /////////////// 
@@ -70,48 +107,81 @@ a {
 
 // I N T R O
 
-.iu-intro {
-	position: relative;
-	height: 720px;
-	overflow: hidden;
-	background-color: #000;
+.iu-intro
+{
+    position: relative;
+
+    overflow: hidden;
+
+    height: 720px;
 }
 
-.parallax-window {
-	height: 720px;
+.parallax-window
+{
+    height: 504px;
 }
 
-.overlay {
-	position: absolute;
-	top: 0;
-	z-index: 10;
-	width: 100%;
+.overlay
+{
+    position: absolute;
+    z-index: 10;
+    top: 0;
+
+    width: 100%;
 }
 
-.bg-video {
-	height: 720px;
-	position: relative;
-	top: 50%;
-	left: 50%;
-	z-index: 0;
-	transform: translateX(-50%) translateY(-50%);
-	background: transparent url("../assets1/Imagenes/bronco.png") no-repeat scroll 0% 0% / cover;
+.bg-video
+{
+    position: relative;
+    z-index: 0;
+    top: 50%;
+    left: 50%;
+
+    height: 720px;
+
+    transform: translateX(-50%) translateY(-50%);
+
+    background: transparent url('../assets1/Imagenes/bronco.png') no-repeat scroll 0 0 / cover;
 }
 
-.intro-logos {
-	padding: 10px;
-	border: 5px solid white;
+.intro-logos
+{
+    max-width: 100%;
+    padding: 10px;
 
+    border: 5px solid white;
 }
 
-@media (min-width: 768px) {
-	.intro-height {
-		height: 616px;
-	}
-	.wrapper-img {
-		position: relative;
-		top: 50%;
-		transform: translateY(-50%);
-	}
+.wrapper-img
+{
+    position: relative;
+    top: 50%;
+
+    transform: translateY(-50%);
+}
+
+.intro-height
+{
+    margin-top: 104px;
+}
+
+@media (max-width: 767px)
+{
+    .iu-intro
+    {
+        height: 504px;
+    }
+    .intro-height
+    {
+        height: 400px;
+    }
+}
+
+@media (min-width: 768px)
+{
+    .intro-height
+    {
+        height: 616px;
+    }
 }
 ///////////////
