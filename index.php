@@ -470,7 +470,7 @@
 						<h1 class="title-modal">Actividades</h1>
 						<p class="p-modal">Diseñamos, gestionamos materiales y acompañamos a las familias en la construcción de acciones que mejoren las viviendas y las comunidades.</p>
 					</div>
-					<div class="col-xs-12 col-sm-6 bg-red h-400 padding-small pos-stat z-1" style="background-image: url('images/modal-3.jpg')">
+					<div class="col-xs-12 col-sm-6 h-400 padding-small pos-stat z-1" style="background-image: url('images/modal-3.jpg')">
 						<h1 class="title-modal">Impacto</h1>
 						<p class="p-modal">
 							<b>La comunidad: </b>mejora la calidad de vida de la vivienda y espacio público y con ello se reducen los riesgos de enfermedades y el crimen.
