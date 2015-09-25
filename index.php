@@ -328,19 +328,19 @@
 				<h1 class="main-title title-white">Impacto</h1>
 				<div class="row">
 					<div class="col-xs-4" align="center">
-						<div class="num-ciruclo">15</div>
+						<div class="num-circulo">15</div>
 						<div class="caption">
 							Años de trabajar por la comunidad.
 						</div>
 					</div>
 					<div class="col-xs-4" align="center">
-						<div class="num-ciruclo">980</div>
+						<div class="num-circulo">980</div>
 						<div class="caption">
 							Alumnos han participado y apoyado.
 						</div>
 					</div>
 					<div class="col-xs-4" align="center">
-						<div class="num-ciruclo">15</div>
+						<div class="num-circulo">15</div>
 						<div class="caption">
 							Proyectos finalizados.
 						</div>
@@ -388,6 +388,25 @@
 			</div>
 		</div>
 	</section>
+	<footer>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xs-12 col-sm-6">
+					<h1 class="main-title title-white">Contacto</h1>
+					<p><i><img class="icono-cont" src="images/tel.png" alt=""></i>(81) 8358 2000 Ext. 5406 ó 5507</p>
+					<p><i><img class="icono-cont" src="images/mail.png" alt=""></i>alberto.torresg@gmail.com ó ppacheco@itesm.mx</p>
+					<p>Talleres de Arquitectura ITESM <br> Junco de la Vega. esq. con Fernando G. Roel</p>
+				</div>
+				<div class="col-xs-12 col-sm-6">
+					<h1 class="main-title title-white">Redes Sociales</h1>
+					<br>
+					<span class="icono-rs"><img src="images/fb.png" alt=""></span>
+					<span class="icono-rs"><img src="images/ig.png" alt=""></span>
+					<span class="icono-rs"><img src="images/tw.png" alt=""></span>
+				</div>
+			</div>
+		</div>
+	</footer>
 	<!-- JS -->
 	<script src="js/vendors/trianglify.min.js"></script>
 	<script src="js/vendors/TweenMax.min.js"></script>

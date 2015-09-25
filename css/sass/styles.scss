@@ -88,6 +88,7 @@ a
 .section-text
 {
     padding-top: 35px;
+    padding-bottom: 35px;
 }
 
 .uppercase
@@ -247,7 +248,7 @@ a
         background-color: $transparent !important;
     }
 
-    .affix
+    .affix .navbar-header
     {
         // width: 100% !important;
     }
@@ -258,6 +259,10 @@ a
     .navbar-collapse
     {
         background-color: $transparent;
+    }
+    .affix .navbar-header
+    {
+        background-color: $transparent !important;
     }
 }
 
@@ -373,7 +378,7 @@ a
 {
     padding-bottom: 35px;
 }
-.num-ciruclo
+.num-circulo
 {
     font-size: 55px;
     line-height: 111px;
@@ -401,6 +406,18 @@ a
 
     color: $main-color;
 }
+
+@media (max-width: 767px) {
+    .num-circulo {
+        font-size: 34px;
+        line-height: 75px;
+        width: 75px;
+        height: 75px;
+    }
+    .caption {
+        font-size: 15px;
+    }
+}
 /////////////////
 
 // U N E T E
@@ -418,3 +435,31 @@ a
 }
 
 /////////////////
+
+// F O O T E R
+footer {
+    background-color: $transparent;
+    color: $main-color;
+} 
+
+.icono-cont {
+    width: 22px;
+    height: auto;
+    padding-right: 5px;
+}
+
+.icono-rs {
+    width: 40px;
+    height: 40px;
+    border: 2px solid;
+    border-radius: 50%;
+    display: inline-block;
+    img {
+        width: 27px;
+        height: auto;
+        margin-top: 4px;
+        margin-left: 4px;
+    }
+
+}
+//////////////////
