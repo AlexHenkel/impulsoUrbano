@@ -66,6 +66,13 @@ a
     @extend .second-font;
 }
 
+.title-white {
+    color: $main-color;
+    border: 2px solid;
+    text-align: left;
+    display: inline-block;
+}
+
 .section-text
 {
     padding-top: 35px;
@@ -348,3 +355,38 @@ a
     }
 }
 ////////////// 
+
+// I M P A C T O
+.parallax-impacto
+{
+    padding-bottom: 35px;
+}
+.num-ciruclo
+{
+    font-size: 55px;
+    line-height: 111px;
+
+    display: inline-block;
+
+    width: 110px;
+    height: 110px;
+    margin-top: 25px;
+
+    text-align: center;
+
+    color: $main-color;
+    border: 5px solid;
+    border-radius: 50%;
+
+    @extend .second-font;
+}
+
+.num-caption
+{
+    font-size: 25px;
+
+    margin-top: 30px;
+
+    color: $main-color;
+}
+// 

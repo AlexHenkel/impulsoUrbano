@@ -26,7 +26,7 @@
 <body data-spy="scroll" data-target="#bs-example-navbar-collapse-1">
 	<section class="iu-section iu-intro">
 		<div class="intro parallax-intro visible-xs-block" data-parallax="scroll" data-image-src="images/bg-1.jpg"></div>
-		<video autoplay muted loop poster="images/bg-1.jpg" class="bg-video hidden-xs">
+		<video autoplay muted controls loop poster="images/bg-1.jpg" class="bg-video hidden-xs">
 			<source src="images/videos/timelapse.webm" type="video/webm">
 			<source src="images/videos/timelapse.mp4" type="video/mp4">
 		</video>
@@ -53,9 +53,9 @@
 				      <ul class="nav navbar-nav navbar-right">
 				        <li><a href="#iu-conocenos">Conócenos</a></li>
 				        <li><a href="#iu-proyectos">Proyectos</a></li>
-				        <li><a href="#">Impacto</a></li>
-				        <li><a href="#">Únete</a></li>
-				        <li><a href="#">Contáctanos</a></li>
+				        <li><a href="#iu-impacto">Impacto</a></li>
+				        <li><a href="#iu-unete">Únete</a></li>
+				        <li><a href="#iu-contacto">Contáctanos</a></li>
 				      </ul>
 				    </div><!-- /.navbar-collapse -->
 			    </div>
@@ -137,13 +137,13 @@
 											<p>Low hanging fruit burn rate innovator user experience niche market A/B testing creative launch party product management release. Www.discoverartisans.com influencer business model canvas user experience gamification paradigm shift startup research &amp; development iPad agile development. Strategy incubator infographic success marketing buzz A/B testing responsive web design. Traction research &amp; development pitch seed money venture niche market accelerator network effects.</p> -->
 											<div class="row">
 												<div class="col-xs-12">
-													<img src="" alt="">
+													<img src="images/bg-1.jpg" alt="">
 												</div>
 												<div class="col-xs-12 col-sm-6">
-													<img src="" alt="">
+													<img src="images/bg-1.jpg" alt="">
 												</div>
 												<div class="col-xs-12 col-sm-6">
-													<img src="" alt="">
+													<img src="images/bg-1.jpg" alt="">
 												</div>
 											</div>
 										</div>
@@ -318,6 +318,64 @@
 						</div>
 						<!-- /cards -->
 					</div><!-- /content -->
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="iu-impacto">
+		<div class="intro parallax-impacto section-text" data-parallax="scroll" data-image-src="images/bg-6.jpg">
+			<div class="container-fluid">
+				<h1 class="main-title title-white">Impacto</h1>
+				<div class="row">
+					<div class="col-xs-4" align="center">
+						<div class="num-ciruclo">15</div>
+						<div class="num-caption">
+							Años de trabajar por la comunidad.
+						</div>
+					</div>
+					<div class="col-xs-4" align="center">
+						<div class="num-ciruclo">980</div>
+						<div class="num-caption">
+							Alumnos han participado y apoyado.
+						</div>
+					</div>
+					<div class="col-xs-4" align="center">
+						<div class="num-ciruclo">15</div>
+						<div class="num-caption">
+							Proyectos finalizados.
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="iu-unete">
+		<div class="container-fluid" id="iu-unete">
+			<h2 class="main-title">Lo importante es ayudar. <span class="red-color">¡Únete!</span></h2>
+			<div class="row">
+				<div class="col-xs-6 col-sm-3" align="center">
+					<a href="">
+						<div class="red-icon"></div>
+						<div class="icon-caption">Estudiantes</div>
+					</a>
+				</div>
+				<div class="col-xs-6 col-sm-3" align="center">
+					<a href="">
+						<div class="red-icon"></div>
+						<div class="icon-caption">Empresas</div>
+					</a>
+				</div>
+				<div class="col-xs-6 col-sm-3" align="center">
+					<a href="">
+						<div class="red-icon"></div>
+						<div class="icon-caption">Comunidad</div>
+					</a>
+				</div>
+				<div class="col-xs-6 col-sm-3" align="center">
+					<a href="">
+						<div class="red-icon"></div>
+						<div class="icon-caption">Familias</div>
+					</a>
 				</div>
 			</div>
 		</div>
