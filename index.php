@@ -449,28 +449,39 @@
 	<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
 	  <div class="modal-dialog modal-lg">
 	    <div class="modal-content">
-			<div class="container-modal-conocenos container-parallax">
-				<div class="container container-conocenos vertical-align col-white">
-					<h1>Desarrollando Comunidades Integrales Por Una Vida Sana, Productiva y Significativa</h1>
-				</div>
+			<div class="container-fluid container-modal-conocenos container-parallax" style="background-image: url('images/modal-1.jpg')">
+				<h1 class="title-modal">Objetivos</h1>
+				<br>
+				<p class="p-modal inline-block">
+					-Potenciar el desarrollo personal, comunitario y profesional <br>
+					-Crear oportunidades de desarrollo <br>
+					-Desarrollar capacidades <br>
+					-Construir ciudadanía (Detonar y acompañar en el proceso autogestivo) <br>
+					-Cultivar el sentido de pertenencia hacia los proyectos y la comunidad <br>
+				</p>
 			</div>
 	    	<div class="container-fluid">
 				<div class="row pos-rel">
-					<div class="col-xs-12 col-sm-6 h-400 padding-small z-3">
-						<div class="vertical-align-no-small">
-							<p class="main-text">
-								Somos un <b>PROGRAMA</b> de Servicio Social e investigación que explora <b>OPORTUNIDADES</b> de <b>MEJORAMIENTO DE VIVIENDA</b> y <b>ESPACIOS PÚBLICOS</b> en zonas de alta marginación y riesgo para la salud con una <b>VISIÓN INTEGRAL</b>
-							</p>
-						</div>
+					<div class="col-xs-12 col-sm-6 h-400 padding-small z-3" style="background-image: url('images/modal-2.jpg')">
+						<h1 class="title-modal">Actividades</h1>
+						<p class="p-modal">Diseñamos, gestionamos materiales y acompañamos a las familias en la construcción de acciones que mejoren las viviendas y las comunidades.</p>
 					</div>
-					<div class="col-xs-12 col-sm-6 bg-red h-400 padding-small pos-stat z-1">
-						<div class="vertical-align-no-small z-3" align="center">
-							<button type="button" class="button button--inverted button--wayra button--border-thick button--text-upper button--size-s uppercase" data-toggle="modal" data-target=".bs-example-modal-lg">Conoce más</button>
-						</div>
+					<div class="col-xs-12 col-sm-6 bg-red h-400 padding-small pos-stat z-1" style="background-image: url('images/modal-3.jpg')">
+						<h1 class="title-modal">Impacto</h1>
+						<p class="p-modal">
+							<b>La comunidad: </b>mejora la calidad de vida de la vivienda y espacio público y con ello se reducen los riesgos de enfermedades y el crimen.
+							<br>
+							<b>Las empresas: </b>se reconocen como empresas socialmente responsables y exploran oportunidades de inversión en los mercados emergentes.
+							<br>
+							<b>Las organizaciones gubernamentales y las ONG: </b>logran una mayor cobertura de sus programas sociales.
+							<br>
+							<b>Las instituciones educativas: </b>sensibilizan a sus alumnos y profesores para una educación integral y humanizada.
+						</p>
 					</div>
 					
 				</div>
 			</div>
+			<button type="button" class="btn close-modal" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">X</span></button>
 	    </div>
 	  </div>
 	</div>
