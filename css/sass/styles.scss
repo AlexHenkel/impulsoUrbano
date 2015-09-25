@@ -451,7 +451,7 @@ footer {
 .icono-rs {
     width: 40px;
     height: 40px;
-    border: 2px solid;
+    border: 2px solid white;
     border-radius: 50%;
     display: inline-block;
     img {
@@ -460,6 +460,10 @@ footer {
         margin-top: 4px;
         margin-left: 4px;
     }
+}
 
+small {
+    font-size: 65%;
+    color: #8E949F
 }
 //////////////////

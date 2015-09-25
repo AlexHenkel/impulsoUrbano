@@ -354,35 +354,35 @@
 			<h2 class="main-title"><span class="black-color">Lo importante es ayudar. </span>¡Únete!</h2>
 			<div class="row">
 				<div class="col-xs-6 col-sm-3" align="center">
-					<a href="">
+					<a href="encuesta">
 						<div class="red-icon">
 							<img src="images/es.png" alt="">
 						</div>
-						<div class="caption black-color">Estudiantes</div>
+						<div class="caption black-color">Estudiantes <br><small>Vinculación Social de tu campus o Voluntariado</small></div>
 					</a>
 				</div>
 				<div class="col-xs-6 col-sm-3" align="center">
-					<a href="">
+					<a href="encuesta">
 						<div class="red-icon">
 							<img src="images/bus.png" alt="">
 						</div>
-						<div class="caption black-color">Empresas</div>
+						<div class="caption black-color">Empresas <br><small>Apoyos en especie y donativos deducibles.</small></div>
 					</a>
 				</div>
 				<div class="col-xs-6 col-sm-3" align="center">
-					<a href="">
+					<a href="encuesta">
 						<div class="red-icon">
 							<img src="images/icon.png" alt="">
 						</div>
-						<div class="caption black-color">Comunidad</div>
+						<div class="caption black-color">Comunidad <br><small>Involucrandose en el desarrollo del proyecto </small></div>
 					</a>
 				</div>
 				<div class="col-xs-6 col-sm-3" align="center">
-					<a href="">
+					<a href="encuesta">
 						<div class="red-icon">
 							<img src="images/fami.png" alt="">
 						</div>
-						<div class="caption black-color">Familias</div>
+						<div class="caption black-color">Familias <br><small>Aplicando para ser Candidato</small></div>
 					</a>
 				</div>
 			</div>
@@ -400,9 +400,9 @@
 				<div class="col-xs-12 col-sm-6">
 					<h1 class="main-title title-white">Redes Sociales</h1>
 					<br>
-					<span class="icono-rs"><img src="images/fb.png" alt=""></span>
-					<span class="icono-rs"><img src="images/ig.png" alt=""></span>
-					<span class="icono-rs"><img src="images/tw.png" alt=""></span>
+					<a href="https://www.facebook.com/diezxdiez"><span class="icono-rs"><img src="images/fb.png" alt=""></span></a>
+					<a href=""><span class="icono-rs"><img src="images/ig.png" alt=""></span></a>
+					<a href=""><span class="icono-rs"><img src="images/tw.png" alt=""></span></a>
 				</div>
 			</div>
 		</div>
