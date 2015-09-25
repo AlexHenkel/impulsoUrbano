@@ -329,19 +329,19 @@
 				<div class="row">
 					<div class="col-xs-4" align="center">
 						<div class="num-ciruclo">15</div>
-						<div class="num-caption">
+						<div class="caption">
 							Años de trabajar por la comunidad.
 						</div>
 					</div>
 					<div class="col-xs-4" align="center">
 						<div class="num-ciruclo">980</div>
-						<div class="num-caption">
+						<div class="caption">
 							Alumnos han participado y apoyado.
 						</div>
 					</div>
 					<div class="col-xs-4" align="center">
 						<div class="num-ciruclo">15</div>
-						<div class="num-caption">
+						<div class="caption">
 							Proyectos finalizados.
 						</div>
 					</div>
@@ -349,32 +349,40 @@
 			</div>
 		</div>
 	</section>
-	<section id="iu-unete">
-		<div class="container-fluid" id="iu-unete">
-			<h2 class="main-title">Lo importante es ayudar. <span class="red-color">¡Únete!</span></h2>
+	<section id="iu-unete" class="section-text" >
+		<div class="container-fluid">
+			<h2 class="main-title"><span class="black-color">Lo importante es ayudar. </span>¡Únete!</h2>
 			<div class="row">
 				<div class="col-xs-6 col-sm-3" align="center">
 					<a href="">
-						<div class="red-icon"></div>
-						<div class="icon-caption">Estudiantes</div>
+						<div class="red-icon">
+							<img src="images/es.png" alt="">
+						</div>
+						<div class="caption black-color">Estudiantes</div>
 					</a>
 				</div>
 				<div class="col-xs-6 col-sm-3" align="center">
 					<a href="">
-						<div class="red-icon"></div>
-						<div class="icon-caption">Empresas</div>
+						<div class="red-icon">
+							<img src="images/bus.png" alt="">
+						</div>
+						<div class="caption black-color">Empresas</div>
 					</a>
 				</div>
 				<div class="col-xs-6 col-sm-3" align="center">
 					<a href="">
-						<div class="red-icon"></div>
-						<div class="icon-caption">Comunidad</div>
+						<div class="red-icon">
+							<img src="images/icon.png" alt="">
+						</div>
+						<div class="caption black-color">Comunidad</div>
 					</a>
 				</div>
 				<div class="col-xs-6 col-sm-3" align="center">
 					<a href="">
-						<div class="red-icon"></div>
-						<div class="icon-caption">Familias</div>
+						<div class="red-icon">
+							<img src="images/fami.png" alt="">
+						</div>
+						<div class="caption black-color">Familias</div>
 					</a>
 				</div>
 			</div>
