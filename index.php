@@ -478,7 +478,6 @@
 							<b>Las instituciones educativas: </b>sensibilizan a sus alumnos y profesores para una educación integral y humanizada.
 						</p>
 					</div>
-					
 				</div>
 			</div>
 			<button type="button" class="btn close-modal" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">X</span></button>
