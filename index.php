@@ -434,7 +434,7 @@
 				<div class="col-xs-12 col-sm-6">
 					<h1 class="main-title title-white">Contacto</h1>
 					<p><i><img class="icono-cont" src="images/tel.png" alt=""></i>(81) 8358 2000 Ext. 5406 ó 5507</p>
-					<p><i><img class="icono-cont" src="images/mail.png" alt=""></i><a href="mailto:alberto.torresg@gmail.com">alberto.torresg@gmail.com</a> ó <a href="mailto:ppacheco@itesm.mx">ppacheco@itesm.mx</a></p>
+					<p><i><img class="icono-cont" src="images/mail.png" alt=""></i><a class="email" href="mailto:alberto.torresg@gmail.com">alberto.torresg@gmail.com</a> ó <a class="email" href="mailto:ppacheco@itesm.mx">ppacheco@itesm.mx</a></p>
 					<p>Talleres de Arquitectura ITESM <br> Junco de la Vega. esq. con Fernando G. Roel</p>
 				</div>
 				<div class="col-xs-12 col-sm-6">

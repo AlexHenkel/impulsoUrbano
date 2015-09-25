@@ -565,6 +565,13 @@ small
     color: #8e949f;
 }
 
+.email {
+    color: $main-color;
+    &:hover {
+        color: $accent-color;
+    }
+}
+
 @media (min-width: 768px)
 {
     footer
