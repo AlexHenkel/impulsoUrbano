@@ -5,6 +5,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>10x10</title>
+	<meta name="description" content="Impulso Urbano">
+	<meta name="keywords" content="Architecture, Help, Social, Service">
+	<meta name="author" content="Alejandro Henkel">
+	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	<link href='https://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>

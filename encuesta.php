@@ -1,8 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
+	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 	<!--Add the title of your typeform below-->
-	<title>Contact Form</title>
+	<title>Forma de contacto</title>
 
 	<!--CSS styles that ensure your typeform takes up all the available screen space (DO NOT EDIT!)-->
 <style type="text/css">
