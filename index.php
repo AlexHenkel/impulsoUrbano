@@ -35,7 +35,7 @@
 			<source src="images/videos/timelapse.mp4" type="video/mp4">
 		</video>
 		<div class="overlay">
-			<nav class="navbar navbar-fixed-top" data-spy="affix" data-offset-top="250" data-offset-bottom="500">
+			<nav class="navbar navbar-fixed-top" data-spy="affix" data-offset-top="250">
 			  <div class="container-fluid">
 			    <div class="border-b-white">
 			    	<!-- Brand and toggle get grouped for better mobile display -->
