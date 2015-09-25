@@ -72,7 +72,6 @@
 			</div>
 		</div>	
 	</section>
-
 	<section class="iu-section" id="iu-conocenos">
 		<div class="container-fluid">
 			<div class="row pos-rel">
@@ -442,8 +441,8 @@
 					<h1 class="main-title title-white">Redes Sociales</h1>
 					<br>
 					<a href="https://www.facebook.com/diezxdiez" target="_blank"><span class="icono-rs"><img src="images/fb.png" alt=""></span></a>
-					<a href=""><span class="icono-rs"><img src="images/ig.png" alt=""></span></a>
-					<a href=""><span class="icono-rs"><img src="images/tw.png" alt=""></span></a>
+					<a href="https://www.instagram.com/impulsourbanomx" target="_blank"><span class="icono-rs"><img src="images/ig.png" alt=""></span></a>
+					<a href="https://www.twitter.com/impulsourbanomx" target="_blank"><span class="icono-rs"><img src="images/tw.png" alt=""></span></a>
 				</div>
 			</div>
 		</div>
