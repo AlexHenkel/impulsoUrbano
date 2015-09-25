@@ -81,7 +81,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-6 bg-red h-400 padding-small pos-stat z-1">
 					<div class="vertical-align-no-small z-3" align="center">
-						<button class="button button--inverted button--wayra button--border-thick button--text-upper button--size-s uppercase">Conoce más</button>
+						<button type="button" class="button button--inverted button--wayra button--border-thick button--text-upper button--size-s uppercase" data-toggle="modal" data-target=".bs-example-modal-lg">Conoce más</button>
 					</div>
 					<div class="conocenos-bg hidden-xs">
 						<img src="images/iu-gray.png" alt="">
@@ -124,26 +124,23 @@
 											<p class="card__subtitle">Escobedo, NL.</p>
 										</div>
 										<div class="card__copy">
-											<!-- <div class="meta">
-												<img class="meta__avatar" src="img/authors/1.png" alt="author01" />
-												<span class="meta__author">Gerry Sutherland</span>
-												<span class="meta__date">06/19/2015</span>
-											</div> -->
-											<!-- <p>Business model canvas bootstrapping deployment startup. In A/B testing pivot niche market alpha conversion startup down monetization partnership business-to-consumer success for investor mass market business-to-business.</p>
-											<p>Release creative social proof influencer iPad crowdsource gamification learning curve network effects monetization. Gamification business plan mass market www.discoverartisans.com direct mailing ecosystem seed round sales long tail vesting period.</p>
-											<p>Product management ramen bootstrapping seed round venture holy grail technology backing partner network entrepreneur beta marketing value proposition. Android stealth conversion scrum project network effects. Creative alpha long tail conversion stealth growth hacking iteration investor A/B testing prototype customer. Startup www.discoverartisans.com direct mailing launch party partnership market ramen metrics focus value proposition.</p>
-											<p>Stock infrastructure seed round sales paradigm shift technology user experience focus gamification. Partnership metrics business plan stealth business-to-business. Deployment graphical user interface monetization. Twitter incubator scrum project entrepreneur branding burn rate ramen backing paradigm shift virality crowdsource.</p>
-											<p>Social proof MVP ecosystem. Ramen launch party pitch deployment stealth. Vesting period MVP equity. Focus creative partnership founders iteration agile development infographic.</p>
-											<p>Low hanging fruit burn rate innovator user experience niche market A/B testing creative launch party product management release. Www.discoverartisans.com influencer business model canvas user experience gamification paradigm shift startup research &amp; development iPad agile development. Strategy incubator infographic success marketing buzz A/B testing responsive web design. Traction research &amp; development pitch seed money venture niche market accelerator network effects.</p> -->
 											<div class="row">
-												<div class="col-xs-12">
-													<img src="images/bg-1.jpg" alt="">
+												<div class="col-xs-12 pos-rel" align="center">
+													<img class="img-100" src="images/pro-1-bn.jpg" alt="">
+													<div class="vertical-align-no-small-abs main-title title-white hidden-xs">USAER XXXIV</div>
 												</div>
 												<div class="col-xs-12 col-sm-6">
-													<img src="images/bg-1.jpg" alt="">
+													<img class="img-100" src="images/bg-1.jpg" alt="">
 												</div>
 												<div class="col-xs-12 col-sm-6">
-													<img src="images/bg-1.jpg" alt="">
+													<img class="img-100" src="images/bg-1.jpg" alt="">
+												</div>
+												<div class="col-xs-12" align="center">
+													<a href="" class="no-underline">
+														<button href="docs/usaer.pdf" class="button button--antiman button--text-thick button--text-upper button--size-s button--inverted-alt button--round-s button--border-thick" target="_blank">
+															<span>Conoce más de este proyecto</span>
+														</button>
+													</a>
 												</div>
 											</div>
 										</div>
@@ -168,17 +165,25 @@
 											<p class="card__subtitle">Guadalupe, NL.</p>
 										</div>
 										<div class="card__copy">
-											<!-- <div class="meta">
-												<img class="meta__avatar" src="img/authors/2.png" alt="author02" />
-												<span class="meta__author">Frank Posterius</span>
-												<span class="meta__date">06/16/2015</span>
-											</div> -->
-											<p>Business model canvas bootstrapping deployment startup. In A/B testing pivot niche market alpha conversion startup down monetization partnership business-to-consumer success for investor mass market business-to-business.</p>
-											<p>Release creative social proof influencer iPad crowdsource gamification learning curve network effects monetization. Gamification business plan mass market www.discoverartisans.com direct mailing ecosystem seed round sales long tail vesting period.</p>
-											<p>Product management ramen bootstrapping seed round venture holy grail technology backing partner network entrepreneur beta marketing value proposition. Android stealth conversion scrum project network effects. Creative alpha long tail conversion stealth growth hacking iteration investor A/B testing prototype customer. Startup www.discoverartisans.com direct mailing launch party partnership market ramen metrics focus value proposition.</p>
-											<p>Stock infrastructure seed round sales paradigm shift technology user experience focus gamification. Partnership metrics business plan stealth business-to-business. Deployment graphical user interface monetization. Twitter incubator scrum project entrepreneur branding burn rate ramen backing paradigm shift virality crowdsource.</p>
-											<p>Social proof MVP ecosystem. Ramen launch party pitch deployment stealth. Vesting period MVP equity. Focus creative partnership founders iteration agile development infographic.</p>
-											<p>Low hanging fruit burn rate innovator user experience niche market A/B testing creative launch party product management release. Www.discoverartisans.com influencer business model canvas user experience gamification paradigm shift startup research &amp; development iPad agile development. Strategy incubator infographic success marketing buzz A/B testing responsive web design. Traction research &amp; development pitch seed money venture niche market accelerator network effects.</p>
+											<div class="row">
+												<div class="col-xs-12 pos-rel" align="center">
+													<img class="img-100" src="images/pro-2-bn.jpg" alt="">
+													<div class="vertical-align-no-small-abs main-title title-white hidden-xs">Casa Rosenda</div>
+												</div>
+												<div class="col-xs-12 col-sm-6">
+													<img class="img-100" src="images/bg-1.jpg" alt="">
+												</div>
+												<div class="col-xs-12 col-sm-6">
+													<img class="img-100" src="images/bg-1.jpg" alt="">
+												</div>
+												<div class="col-xs-12" align="center">
+													<a href="" class="no-underline">
+														<button href="docs/usaer.pdf" class="button button--antiman button--text-thick button--text-upper button--size-s button--inverted-alt button--round-s button--border-thick" target="_blank">
+															<span>Conoce más de este proyecto</span>
+														</button>
+													</a>
+												</div>
+											</div>
 										</div>
 									</div>
 								</div>
@@ -201,17 +206,25 @@
 											<p class="card__subtitle">Ubicación</p>
 										</div>
 										<div class="card__copy">
-											<!-- <div class="meta">
-												<img class="meta__avatar" src="img/authors/3.png" alt="author03" />
-												<span class="meta__author">Sarah Lester</span>
-												<span class="meta__date">06/16/2015</span>
-											</div> -->
-											<p>Business model canvas bootstrapping deployment startup. In A/B testing pivot niche market alpha conversion startup down monetization partnership business-to-consumer success for investor mass market business-to-business.</p>
-											<p>Release creative social proof influencer iPad crowdsource gamification learning curve network effects monetization. Gamification business plan mass market www.discoverartisans.com direct mailing ecosystem seed round sales long tail vesting period.</p>
-											<p>Product management ramen bootstrapping seed round venture holy grail technology backing partner network entrepreneur beta marketing value proposition. Android stealth conversion scrum project network effects. Creative alpha long tail conversion stealth growth hacking iteration investor A/B testing prototype customer. Startup www.discoverartisans.com direct mailing launch party partnership market ramen metrics focus value proposition.</p>
-											<p>Stock infrastructure seed round sales paradigm shift technology user experience focus gamification. Partnership metrics business plan stealth business-to-business. Deployment graphical user interface monetization. Twitter incubator scrum project entrepreneur branding burn rate ramen backing paradigm shift virality crowdsource.</p>
-											<p>Social proof MVP ecosystem. Ramen launch party pitch deployment stealth. Vesting period MVP equity. Focus creative partnership founders iteration agile development infographic.</p>
-											<p>Low hanging fruit burn rate innovator user experience niche market A/B testing creative launch party product management release. Www.discoverartisans.com influencer business model canvas user experience gamification paradigm shift startup research &amp; development iPad agile development. Strategy incubator infographic success marketing buzz A/B testing responsive web design. Traction research &amp; development pitch seed money venture niche market accelerator network effects.</p>
+											<div class="row">
+												<div class="col-xs-12 pos-rel" align="center">
+													<img class="img-100" src="images/pro-3-bn.png" alt="">
+													<div class="vertical-align-no-small-abs main-title title-white hidden-xs">CCA Alfonso Reyes</div>
+												</div>
+												<div class="col-xs-12 col-sm-6">
+													<img class="img-100" src="images/bg-1.jpg" alt="">
+												</div>
+												<div class="col-xs-12 col-sm-6">
+													<img class="img-100" src="images/bg-1.jpg" alt="">
+												</div>
+												<div class="col-xs-12" align="center">
+													<a href="" class="no-underline">
+														<button href="docs/usaer.pdf" class="button button--antiman button--text-thick button--text-upper button--size-s button--inverted-alt button--round-s button--border-thick" target="_blank">
+															<span>Conoce más de este proyecto</span>
+														</button>
+													</a>
+												</div>
+											</div>
 										</div>
 									</div>
 								</div>
@@ -234,17 +247,25 @@
 											<p class="card__subtitle">Guadalupe, NL.</p>
 										</div>
 										<div class="card__copy">
-											<!-- <div class="meta">
-												<img class="meta__avatar" src="img/authors/4.png" alt="author04" />
-												<span class="meta__author">Lena Bestofos</span>
-												<span class="meta__date">06/14/2015</span>
-											</div> -->
-											<p>Business model canvas bootstrapping deployment startup. In A/B testing pivot niche market alpha conversion startup down monetization partnership business-to-consumer success for investor mass market business-to-business.</p>
-											<p>Release creative social proof influencer iPad crowdsource gamification learning curve network effects monetization. Gamification business plan mass market www.discoverartisans.com direct mailing ecosystem seed round sales long tail vesting period.</p>
-											<p>Product management ramen bootstrapping seed round venture holy grail technology backing partner network entrepreneur beta marketing value proposition. Android stealth conversion scrum project network effects. Creative alpha long tail conversion stealth growth hacking iteration investor A/B testing prototype customer. Startup www.discoverartisans.com direct mailing launch party partnership market ramen metrics focus value proposition.</p>
-											<p>Stock infrastructure seed round sales paradigm shift technology user experience focus gamification. Partnership metrics business plan stealth business-to-business. Deployment graphical user interface monetization. Twitter incubator scrum project entrepreneur branding burn rate ramen backing paradigm shift virality crowdsource.</p>
-											<p>Social proof MVP ecosystem. Ramen launch party pitch deployment stealth. Vesting period MVP equity. Focus creative partnership founders iteration agile development infographic.</p>
-											<p>Low hanging fruit burn rate innovator user experience niche market A/B testing creative launch party product management release. Www.discoverartisans.com influencer business model canvas user experience gamification paradigm shift startup research &amp; development iPad agile development. Strategy incubator infographic success marketing buzz A/B testing responsive web design. Traction research &amp; development pitch seed money venture niche market accelerator network effects.</p>
+											<div class="row">
+												<div class="col-xs-12 pos-rel" align="center">
+													<img class="img-100" src="images/pro-4-bn.jpg" alt="">
+													<div class="vertical-align-no-small-abs main-title title-white hidden-xs">El Ranchito</div>
+												</div>
+												<div class="col-xs-12 col-sm-6">
+													<img class="img-100" src="images/bg-1.jpg" alt="">
+												</div>
+												<div class="col-xs-12 col-sm-6">
+													<img class="img-100" src="images/bg-1.jpg" alt="">
+												</div>
+												<div class="col-xs-12" align="center">
+													<a href="" class="no-underline">
+														<button href="docs/usaer.pdf" class="button button--antiman button--text-thick button--text-upper button--size-s button--inverted-alt button--round-s button--border-thick" target="_blank">
+															<span>Conoce más de este proyecto</span>
+														</button>
+													</a>
+												</div>
+											</div>
 										</div>
 									</div>
 								</div>
@@ -267,17 +288,25 @@
 											<p class="card__subtitle">Tampiquito, San Pedro</p>
 										</div>
 										<div class="card__copy">
-											<!-- <div class="meta">
-												<img class="meta__avatar" src="img/authors/5.png" alt="author05" />
-												<span class="meta__author">Michaela Walters</span>
-												<span class="meta__date">06/11/2015</span>
-											</div> -->
-											<p>Business model canvas bootstrapping deployment startup. In A/B testing pivot niche market alpha conversion startup down monetization partnership business-to-consumer success for investor mass market business-to-business.</p>
-											<p>Release creative social proof influencer iPad crowdsource gamification learning curve network effects monetization. Gamification business plan mass market www.discoverartisans.com direct mailing ecosystem seed round sales long tail vesting period.</p>
-											<p>Product management ramen bootstrapping seed round venture holy grail technology backing partner network entrepreneur beta marketing value proposition. Android stealth conversion scrum project network effects. Creative alpha long tail conversion stealth growth hacking iteration investor A/B testing prototype customer. Startup www.discoverartisans.com direct mailing launch party partnership market ramen metrics focus value proposition.</p>
-											<p>Stock infrastructure seed round sales paradigm shift technology user experience focus gamification. Partnership metrics business plan stealth business-to-business. Deployment graphical user interface monetization. Twitter incubator scrum project entrepreneur branding burn rate ramen backing paradigm shift virality crowdsource.</p>
-											<p>Social proof MVP ecosystem. Ramen launch party pitch deployment stealth. Vesting period MVP equity. Focus creative partnership founders iteration agile development infographic.</p>
-											<p>Low hanging fruit burn rate innovator user experience niche market A/B testing creative launch party product management release. Www.discoverartisans.com influencer business model canvas user experience gamification paradigm shift startup research &amp; development iPad agile development. Strategy incubator infographic success marketing buzz A/B testing responsive web design. Traction research &amp; development pitch seed money venture niche market accelerator network effects.</p>
+											<div class="row">
+												<div class="col-xs-12 pos-rel" align="center">
+													<img class="img-100" src="images/pro-5-bn.png" alt="">
+													<div class="vertical-align-no-small-abs main-title title-white hidden-xs">Andador Arboledas</div>
+												</div>
+												<div class="col-xs-12 col-sm-6">
+													<img class="img-100" src="images/bg-1.jpg" alt="">
+												</div>
+												<div class="col-xs-12 col-sm-6">
+													<img class="img-100" src="images/bg-1.jpg" alt="">
+												</div>
+												<div class="col-xs-12" align="center">
+													<a href="" class="no-underline">
+														<button href="docs/usaer.pdf" class="button button--antiman button--text-thick button--text-upper button--size-s button--inverted-alt button--round-s button--border-thick" target="_blank">
+															<span>Conoce más de este proyecto</span>
+														</button>
+													</a>
+												</div>
+											</div>
 										</div>
 									</div>
 								</div>
@@ -300,17 +329,25 @@
 											<!-- <p class="card__subtitle">When it's too hot to think</p> -->
 										</div>
 										<div class="card__copy">
-											<!-- <div class="meta">
-												<img class="meta__avatar" src="img/authors/6.png" alt="author06" />
-												<span class="meta__author">Tom Goldman</span>
-												<span class="meta__date">06/10/2015</span>
-											</div> -->
-											<p>Business model canvas bootstrapping deployment startup. In A/B testing pivot niche market alpha conversion startup down monetization partnership business-to-consumer success for investor mass market business-to-business.</p>
-											<p>Release creative social proof influencer iPad crowdsource gamification learning curve network effects monetization. Gamification business plan mass market www.discoverartisans.com direct mailing ecosystem seed round sales long tail vesting period.</p>
-											<p>Product management ramen bootstrapping seed round venture holy grail technology backing partner network entrepreneur beta marketing value proposition. Android stealth conversion scrum project network effects. Creative alpha long tail conversion stealth growth hacking iteration investor A/B testing prototype customer. Startup www.discoverartisans.com direct mailing launch party partnership market ramen metrics focus value proposition.</p>
-											<p>Stock infrastructure seed round sales paradigm shift technology user experience focus gamification. Partnership metrics business plan stealth business-to-business. Deployment graphical user interface monetization. Twitter incubator scrum project entrepreneur branding burn rate ramen backing paradigm shift virality crowdsource.</p>
-											<p>Social proof MVP ecosystem. Ramen launch party pitch deployment stealth. Vesting period MVP equity. Focus creative partnership founders iteration agile development infographic.</p>
-											<p>Low hanging fruit burn rate innovator user experience niche market A/B testing creative launch party product management release. Www.discoverartisans.com influencer business model canvas user experience gamification paradigm shift startup research &amp; development iPad agile development. Strategy incubator infographic success marketing buzz A/B testing responsive web design. Traction research &amp; development pitch seed money venture niche market accelerator network effects.</p>
+											<div class="row">
+												<div class="col-xs-12 pos-rel" align="center">
+													<img class="img-100" src="images/pro-6-bn.jpg" alt="">
+													<div class="vertical-align-no-small-abs main-title title-white hidden-xs">Casa Viesca</div>
+												</div>
+												<div class="col-xs-12 col-sm-6">
+													<img class="img-100" src="images/bg-1.jpg" alt="">
+												</div>
+												<div class="col-xs-12 col-sm-6">
+													<img class="img-100" src="images/bg-1.jpg" alt="">
+												</div>
+												<div class="col-xs-12" align="center">
+													<a href="" class="no-underline">
+														<button href="docs/usaer.pdf" class="button button--antiman button--text-thick button--text-upper button--size-s button--inverted-alt button--round-s button--border-thick" target="_blank">
+															<span>Conoce más de este proyecto</span>
+														</button>
+													</a>
+												</div>
+											</div>
 										</div>
 									</div>
 								</div>
@@ -388,7 +425,7 @@
 			</div>
 		</div>
 	</section>
-	<footer>
+	<footer id="iu-contacto">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xs-12 col-sm-6">
@@ -407,6 +444,36 @@
 			</div>
 		</div>
 	</footer>
+
+	<!-- Modal -->
+	<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+	  <div class="modal-dialog modal-lg">
+	    <div class="modal-content">
+			<div class="container-modal-conocenos container-parallax">
+				<div class="container container-conocenos vertical-align col-white">
+					<h1>Desarrollando Comunidades Integrales Por Una Vida Sana, Productiva y Significativa</h1>
+				</div>
+			</div>
+	    	<div class="container-fluid">
+				<div class="row pos-rel">
+					<div class="col-xs-12 col-sm-6 h-400 padding-small z-3">
+						<div class="vertical-align-no-small">
+							<p class="main-text">
+								Somos un <b>PROGRAMA</b> de Servicio Social e investigación que explora <b>OPORTUNIDADES</b> de <b>MEJORAMIENTO DE VIVIENDA</b> y <b>ESPACIOS PÚBLICOS</b> en zonas de alta marginación y riesgo para la salud con una <b>VISIÓN INTEGRAL</b>
+							</p>
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-6 bg-red h-400 padding-small pos-stat z-1">
+						<div class="vertical-align-no-small z-3" align="center">
+							<button type="button" class="button button--inverted button--wayra button--border-thick button--text-upper button--size-s uppercase" data-toggle="modal" data-target=".bs-example-modal-lg">Conoce más</button>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+	    </div>
+	  </div>
+	</div>
 	<!-- JS -->
 	<script src="js/vendors/trianglify.min.js"></script>
 	<script src="js/vendors/TweenMax.min.js"></script>

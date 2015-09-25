@@ -33,6 +33,19 @@ a
     outline: 0 !important;
 }
 
+.button {
+    cursor: pointer;
+    &:hover, &:focus, &:active {
+        text-decoration: none;
+    }
+}
+
+.no-underline {
+    &:hover, &:focus, &:active {
+        text-decoration: none;
+    }
+}
+
 .bg-red
 {
     z-index: -3;
@@ -148,6 +161,14 @@ a
         top: 50%;
 
         transform: translateY(-50%);
+    }
+    .vertical-align-no-small-abs
+    {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+
+        transform: translate(-50%)translateY(-50%);
     }
 
     .pos-stat
@@ -351,6 +372,9 @@ a
 
     border: 2px solid;
 }
+.container-modal-conocenos {
+    background-image: url('../images/bg-4.jpg'); 
+}
 @media (min-width: 768px)
 {
     .h-400
@@ -372,6 +396,11 @@ a
     }
 }
 ////////////// 
+// P R O Y E C T O S
+.img-100 {
+    max-width: 100%;
+}
+///
 
 // I M P A C T O
 .parallax-impacto
@@ -440,6 +469,7 @@ a
 footer {
     background-color: $transparent;
     color: $main-color;
+    padding: 30px 0;
 } 
 
 .icono-cont {
@@ -465,5 +495,13 @@ footer {
 small {
     font-size: 65%;
     color: #8E949F
+}
+
+@media (min-width: 768px) {
+    footer {
+        .main-title {
+            margin-bottom: 30px;
+        }
+    }
 }
 //////////////////
