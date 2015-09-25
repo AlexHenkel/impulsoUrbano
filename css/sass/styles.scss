@@ -59,6 +59,17 @@ a
     text-align: center;
 }
 
+.main-title {
+    color: $accent-color;
+    @extend .second-font;
+    text-align: center;
+    font-size: 60px;
+}
+
+.section-text {
+    padding-top: 35px;
+}
+
 .uppercase
 {
     text-transform: uppercase;
@@ -117,6 +128,7 @@ a
 .navbar
 {
     margin-top: 15px;
+    z-index: 200;
 }
 
 .logo-nav
@@ -234,7 +246,6 @@ a
 .overlay
 {
     position: absolute;
-    z-index: 10;
     top: 0;
 
     width: 100%;
