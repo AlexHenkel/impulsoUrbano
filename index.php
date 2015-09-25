@@ -441,7 +441,7 @@
 				<div class="col-xs-12 col-sm-6">
 					<h1 class="main-title title-white">Redes Sociales</h1>
 					<br>
-					<a href="https://www.facebook.com/diezxdiez"><span class="icono-rs"><img src="images/fb.png" alt=""></span></a>
+					<a href="https://www.facebook.com/diezxdiez" target="_blank"><span class="icono-rs"><img src="images/fb.png" alt=""></span></a>
 					<a href=""><span class="icono-rs"><img src="images/ig.png" alt=""></span></a>
 					<a href=""><span class="icono-rs"><img src="images/tw.png" alt=""></span></a>
 				</div>
